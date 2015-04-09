@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBoothV3_Events", "PhotoBoothV3_Events\PhotoBoothV3_Events.csproj", "{6FF00CEF-A7D1-4CA9-9F1B-98E1AD9856B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF00CEF-A7D1-4CA9-9F1B-98E1AD9856B5}.Debug|x86.ActiveCfg = Debug|x86
+		{6FF00CEF-A7D1-4CA9-9F1B-98E1AD9856B5}.Debug|x86.Build.0 = Debug|x86
+		{6FF00CEF-A7D1-4CA9-9F1B-98E1AD9856B5}.Release|x86.ActiveCfg = Release|x86
+		{6FF00CEF-A7D1-4CA9-9F1B-98E1AD9856B5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PhotoBoothV3_Events\PhotoBoothV3_Events.csproj
+	EndGlobalSection
+EndGlobal
